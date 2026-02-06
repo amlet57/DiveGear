@@ -1,6 +1,6 @@
 # DiveGear Website
 
-Все изображения скачаны и сохранены как JPG. Графика бесплатна для использования (Pexels, etc.).
+Все изображения скачаны и сохранены как JPG.
 
 ## Структура
 - index.html: Главная
@@ -12,5 +12,5 @@
 - robots.txt
 - sitemap.xml
 - css/style.css: Кастомные стили
-- js/script.js: JS для Bootstrap (если нужен, пустой)
+- js/script.js: JS для Bootstrap
 - images/: JPG изображения
